@@ -4,7 +4,7 @@ Welcome to this test project!
 
 The goal of this assignment is to evaluate how you approach the creation of Unity UI interfaces and the scalability of your implementation for future extensions by other team members.
 
-Please before moving forward, clone this repo and create a private GitHub repository with it, you are expected to commit your changes there and give access to @kinerius and @exejutable when you are done.
+Please before moving forward, clone this repo and create a private GitHub repository with it, you are expected to commit your changes there and give access to **@kinerius** and **@exejutable** when you are done.
 
 ## Task
 
@@ -26,7 +26,7 @@ Bonus points for keeping your code clean, organized, scalable, and adhering to t
 
 Bonus points for **Animating** the Settings widget when it opens.
 
-Bonus points for adding Localization to every text and adding a Localization dropdown at the settings menu (english and spanish is enough)
+Bonus points for adding Localization to every text and adding a Localization dropdown at the settings menu (English and Spanish is enough)
 
 Bonus points for adding a different settings tab with video settings (resolution, fps limit, etc)
 
