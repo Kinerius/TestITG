@@ -4,7 +4,7 @@ Welcome to this test project!
 
 The goal of this assignment is to evaluate how you approach the creation of Unity UI interfaces and the scalability of your implementation for future extensions by other team members.
 
-Please before moving forward, clone this repo and create a private GitHub repository with it, you are expected to commit your changes there and give access to @kinerius when you are done.
+Please before moving forward, clone this repo and create a private GitHub repository with it, you are expected to commit your changes there and give access to @kinerius and @exejutable when you are done.
 
 ## Task
 
