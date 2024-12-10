@@ -28,6 +28,8 @@ Bonus points for **Animating** the Settings widget when it opens.
 
 Bonus points for adding Localization to every text and adding a Localization dropdown at the settings menu (english and spanish is enough)
 
+Bonus points for adding a different settings tab with video settings (resolution, fps limit, etc)
+
 ### Extra Info
 
 There is no need to upgrade the visual quality of this project.
@@ -35,3 +37,5 @@ There is no need to upgrade the visual quality of this project.
 You can modify all of this project contents including the base scripts and scene.
 
 You can also add any Unity package you desire, but its usage will be evaluated based on how it was used. 
+
+This project uses Unity 2022.3.24f1
