@@ -18,9 +18,17 @@ The menu must include the following customizable features:
 
 The settings widget should also have an effect on the game. For example, when you adjust the volume sliders, the game's audio should respond to those changes in real time. 
 
-Bonus points for keeping your code clean, organized, scalable, and adhereing to the **SOLID** and **KISS** principles.
+Settings must persist when exiting and entering play mode. 
+
+### Bonus Points
+
+Bonus points for keeping your code clean, organized, scalable, and adhering to the **SOLID** and **KISS** principles.
 
 Bonus points for **Animating** the Settings widget when it opens.
+
+Bonus points for adding Localization to every text and adding a Localization dropdown at the settings menu (english and spanish is enough)
+
+### Extra Info
 
 There is no need to upgrade the visual quality of this project.
 
